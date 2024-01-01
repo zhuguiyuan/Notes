@@ -27,6 +27,7 @@ plugins:
 
 # Contents
 nav:
+  - 起点: index.md
   - 碎片:
     - blog/index.md
   - 关于: about.md
