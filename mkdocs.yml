@@ -1,0 +1,33 @@
+# Project Information
+site_name: AutoTranslator's Magic World
+site_url: https://zhuguiyuan.github.io/Notes/
+
+# Repository
+repo_name: 'zhuguiyuan/Notes'
+repo_url: 'https://github.com/zhuguiyuan/Notes'
+
+theme:
+  name: material
+  language: zh
+  favicon: assets/favicon.png
+  palette:
+    primary: teal
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.footer
+
+plugins:
+  - blog:
+      blog_toc: true
+
+# Contents
+nav:
+  - 碎片:
+    - blog/index.md
+  - 关于: about.md
+
