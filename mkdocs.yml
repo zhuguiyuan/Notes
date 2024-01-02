@@ -11,7 +11,7 @@ theme:
   language: zh
   favicon: assets/favicon.png
   palette:
-    primary: teal
+    primary: white
   features:
     - navigation.instant
     - navigation.instant.prefetch
@@ -22,13 +22,14 @@ theme:
     - navigation.footer
 
 plugins:
+  - search
   - blog:
+      blog_dir: .
       blog_toc: true
 
 # Contents
 nav:
-  - 起点: index.md
   - 碎片:
-    - blog/index.md
+    - index.md
   - 关于: about.md
 
