@@ -1,6 +1,6 @@
 # 关于
 
-我是自动翻译机，你也可以叫我汤圆
+我是自动翻译机，你也可以叫我汤圆。
 
 Hello, I am AutoTranslator. You can also call me Tangyuan.
 
@@ -18,3 +18,4 @@ I am in Beijing most of the time.
 
 You can click the button in the upper right corner of the website to
 jump to my GitHub.
+
