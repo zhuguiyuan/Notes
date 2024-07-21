@@ -2,12 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://zhuguiyuan.github.io/Notes/</loc>
-         <lastmod>2024-05-14</lastmod>
+         <lastmod>2024-07-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://zhuguiyuan.github.io/Notes/about/</loc>
-         <lastmod>2024-05-14</lastmod>
+         <lastmod>2024-07-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zhuguiyuan.github.io/Notes/2024/06/23/%E5%85%B3%E4%BA%8E-ddd%E8%BD%AF%E5%B7%A5%E7%9A%84%E5%90%84%E7%A7%8D%E6%A6%82%E5%BF%B5%E6%A2%B3%E7%90%86/</loc>
+         <lastmod>2024-07-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zhuguiyuan.github.io/Notes/archive/2024/</loc>
+         <lastmod>2024-07-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zhuguiyuan.github.io/Notes/category/software-engineering/</loc>
+         <lastmod>2024-07-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
