@@ -1,0 +1,44 @@
+# Project Information
+site_name: 这里应该是网站的名字
+site_url: https://zhuguiyuan.github.io/Notes/
+
+# Repository
+repo_name: 'zhuguiyuan/Notes'
+repo_url: 'https://github.com/zhuguiyuan/Notes'
+
+# Theme
+theme:
+  name: material
+  language: zh
+  favicon: assets/favicon.png
+  palette:
+    primary: white
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.indexes
+
+plugins:
+  - search
+  - blog:
+      blog_dir: .
+      blog_toc: true
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+# Contents
+nav:
+  - 说说:
+    - index.md
+  - 关于: about.md
+
